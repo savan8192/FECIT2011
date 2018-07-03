@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<thumbnails>
+	
+	<config 
+		show_tooltip="true"
+		follow_mouse="false"
+		fullscreen_button="false"
+		folder="thumbnails/"
+		tween_duration="0.5"
+		rotation_speed="7"
+		radius_x="360"
+		radius_y="80"
+		tn_border_size="6"
+		tn_border_color="0xFFFFFF"
+		dragger_x="0"
+		dragger_y="-150">
+	</config>
+	
+	<thumbnail> 
+		<filename>1.jpg</filename> 
+		<tooltip>Library Section</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>2.jpg</filename> 
+		<tooltip>Electronics Main Lab</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>3.jpg</filename> 
+		<tooltip>Research Scholar's Lab</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>4.jpg</filename> 
+		<tooltip>Research Scholar's Lab</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>5.jpg</filename> 
+		<tooltip>Electronics Main Lab</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>6.jpg</filename> 
+		<tooltip>Digital Lab</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>7.jpg</filename> 
+		<tooltip>Digital Lab</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>8.jpg</filename> 
+		<tooltip>Instrumentation Lab</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>9.jpg</filename> 
+		<tooltip>Electronics Main Lab</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>10.jpg</filename> 
+		<tooltip>Embedded System Lab</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>11.jpg</filename> 
+		<tooltip>Electronics Department</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>12.jpg</filename> 
+		<tooltip>Electronics Deepartment</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>13.jpg</filename> 
+		<tooltip>Electronics Department</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+	 
+	<thumbnail> 
+		<filename>14.jpg</filename> 
+		<tooltip>Electronics Department</tooltip> 
+		<url></url> 
+		<target>_blank</target> 
+	</thumbnail> 
+
+	
+</thumbnails>

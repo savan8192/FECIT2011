@@ -1,0 +1,92 @@
+a:link {color:#3F0;}      /* unvisited link */
+a:visited {color:#00FF00;}  /* visited link */
+a:hover {color:#FF00FF;}  /* mouse over link */
+a:active {color:#0000FF;}  /* selected link */
+
+#email{
+	color:#0F0;
+}
+h3, h4, h5{
+	color:#FF0;
+	}
+#blink{
+	text-decoration:underline;
+	border:solid 1px #F00;
+}
+#me a:link {color:#30C;}      /* unvisited link */
+#me a:visited {color:#30C;}  /* visited link */
+#me a:hover {color:#30C;}  /* mouse over link */
+#me a:active {color:#30C;}  /* selected link */
+
+
+#header{
+	z-index:0;
+}
+#bgLeft
+{	position:fixed;
+	top:0; 
+	left:0;
+	border:none;
+	z-index:1;
+}
+#bgRight
+{
+	position:fixed;
+	top:0; 
+	right:0;
+	z-index:1;
+}
+
+#navi
+{
+	position:absolute;
+	top:134px;
+	left:166px;
+	z-index:2;
+}
+#content
+{
+	font-family:Verdana, Geneva, sans-serif;
+	border: 1px;
+	padding:20px 20px 20px 20px;
+	border-style:dashed;
+	color:#FFF;
+	margin:10px 166px 10px 350px;
+	overflow:hidden;
+}
+table{
+	border-collapse:collapse;
+}
+table, td, th
+{
+	border:1px solid #FFF;
+	text-align:left;
+}
+
+	
+#daysLeft{
+	color:#FFF;
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	border:solid #FFF;
+}
+/*
+#update
+{
+
+}
+*/
+#visitor{
+	color:#FFF;
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	border:solid #FFF;
+}
+
+
+#footer {
+	background-color:#FFF;
+	text-align:center;
+	padding:10px 0px 10px 0px;
+	font-family:Verdana, Geneva, sans-serif;
+	}		
