@@ -1,3 +1,5 @@
 This is a test document. 
 
-I made a change
+I made a change.
+
+As the previous change has been successfull pushed, I am testing this one last time.
